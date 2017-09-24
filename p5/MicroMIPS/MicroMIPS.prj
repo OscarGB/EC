@@ -1,0 +1,4 @@
+vhdl work "../UnidadControl.vhd/UnidadControl.vhd"
+vhdl work "../Entrega/RegsMIPS.vhd"
+vhdl work "../Entrega/ALUMIPS.vhd"
+vhdl work "MicroMIPS.vhd"

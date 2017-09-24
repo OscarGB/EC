@@ -1,0 +1,11 @@
+V3 7
+FL G:/ec/p3/entrega/ALUMIPS.vhd 2016/03/02.10:51:34 P.20131013
+EN work/AluMIPS 1456912453 FL G:/ec/p3/entrega/ALUMIPS.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/AluMIPS/Practica 1456912454 \
+      FL G:/ec/p3/entrega/ALUMIPS.vhd EN work/AluMIPS 1456912453
+FL G:/ec/p3/enunciado/ALUMIPSTb.vhd 2016/02/29.13:28:56 P.20131013
+EN work/ALUMIPSTb 0 FL G:/ec/p3/enunciado/ALUMIPSTb.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ALUMIPSTb/Practica 0 \
+      FL G:/ec/p3/enunciado/ALUMIPSTb.vhd EN work/ALUMIPSTb 0 CP ALUMIPS

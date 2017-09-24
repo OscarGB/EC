@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="UnidadControl.vhd.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_MODELSIM_CMD" xil_pn:name="UnidadControl.fdo"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="UnidadControl.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="UnidadControl.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="UnidadControl.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_MODELSIM_CMD" xil_pn:name="UnidadControlTb.fdo"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_MODELSIM_LOG" xil_pn:name="vsim.wlf"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="work"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1459929408" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1459929408">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1459929956" xil_pn:in_ck="-3036200428390524302" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1459929956">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="../Enunciado/UnidadControlTb.vhd"/>
+      <outfile xil_pn:name="UnidadControl.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1459930355" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-6545834889383846750" xil_pn:start_ts="1459930355">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1459930355" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="4901448570278268762" xil_pn:start_ts="1459930355">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1459929408" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-8512661517543802222" xil_pn:start_ts="1459929408">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1459929956" xil_pn:in_ck="-3036200428390524302" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1459929956">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="../Enunciado/UnidadControlTb.vhd"/>
+      <outfile xil_pn:name="UnidadControl.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1459930356" xil_pn:in_ck="-3036200428390524302" xil_pn:name="TRAN_MSimulateBehavioralModel" xil_pn:prop_ck="7226703347604418539" xil_pn:start_ts="1459930355">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="UnidadControlTb.fdo"/>
+      <outfile xil_pn:name="vsim.wlf"/>
+      <outfile xil_pn:name="work"/>
+    </transform>
+  </transforms>
+
+</generated_project>

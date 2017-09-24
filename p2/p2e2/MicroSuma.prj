@@ -1,0 +1,3 @@
+vhdl work "../enunciado/Regs.vhd"
+vhdl work "../enunciado/ALUSuma.vhd"
+vhdl work "../enunciado/MicroSuma.vhd"

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="p2e2.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ALUSuma.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ALUSuma.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ALUSuma.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_MODELSIM_CMD" xil_pn:name="MemProgSuma.fdo"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MicroSuma.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MicroSuma.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MicroSuma.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_MODELSIM_CMD" xil_pn:name="MicroSumaTb.fdo"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_MODELSIM_LOG" xil_pn:name="vsim.wlf"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="work"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1456302996" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1456302996">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1456303165" xil_pn:in_ck="-6218975792878675636" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1456303165">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="../enunciado/ALUSuma.vhd"/>
+      <outfile xil_pn:name="../enunciado/MemProgSUMA.vhd"/>
+      <outfile xil_pn:name="../enunciado/MicroSuma.vhd"/>
+      <outfile xil_pn:name="../enunciado/MicroSumaTb.vhd"/>
+      <outfile xil_pn:name="../enunciado/Regs.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1456303182" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-1354440353436008340" xil_pn:start_ts="1456303182">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1456303182" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="4481523186905499428" xil_pn:start_ts="1456303182">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1456302996" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-4718167798215342308" xil_pn:start_ts="1456302996">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1456303165" xil_pn:in_ck="-6218975792878675636" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1456303165">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="../enunciado/ALUSuma.vhd"/>
+      <outfile xil_pn:name="../enunciado/MemProgSUMA.vhd"/>
+      <outfile xil_pn:name="../enunciado/MicroSuma.vhd"/>
+      <outfile xil_pn:name="../enunciado/MicroSumaTb.vhd"/>
+      <outfile xil_pn:name="../enunciado/Regs.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1456303183" xil_pn:in_ck="-6218975792878675636" xil_pn:name="TRAN_MSimulateBehavioralModel" xil_pn:prop_ck="-3978382966203562068" xil_pn:start_ts="1456303182">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="MicroSumaTb.fdo"/>
+      <outfile xil_pn:name="vsim.wlf"/>
+      <outfile xil_pn:name="work"/>
+    </transform>
+  </transforms>
+
+</generated_project>

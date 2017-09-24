@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dG:/ec/p3/p3e1
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1457099974
+VljK2VDjB]^Mh^BG8i2@UQ2
+Z1 04 9 8 work alumipstb practica 1
+=1-c03fd5f05bf4-56d994c5-376-1028
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z3 OL;O;10.2e;57
+T_opt1
+VU;IV8S7R;9jijU0RUDV573
+04 7 8 work alumips practica 1
+=1-c03fd5f05bf4-56d99099-3cc-868
+R2
+n@_opt1
+R3
+Z4 dG:/ec/p3/p3e1
+!s110 1457098915
+T_opt2
+VAMP[Mf9G_:4<QAkLMB^Id0
+R1
+=1-c03fd5f05bf4-56d6bb38-207-404
+R2
+n@_opt2
+R3
+R4
+!s110 1456913209
+Ealumips
+Z5 w1457099952
+Z6 DPx4 ieee 16 std_logic_signed 0 22 8FY=586_D?ni<6VI>V>_P1
+Z7 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z8 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z9 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+R4
+Z10 8ALUMIPS.vhd
+Z11 FALUMIPS.vhd
+l0
+L19
+VMBJjACLNRfZ8mAm:N^Qf42
+Z12 OL;C;10.2e;57
+31
+Z13 !s110 1457099973
+Z14 !s108 1457099972.990000
+Z15 !s90 -reportprogress|300|-explicit|-93|ALUMIPS.vhd|
+Z16 !s107 ALUMIPS.vhd|
+Z17 o-explicit -93
+Z18 tExplicit 1
+!s100 XV@E?1ed5`mYH6zIOK;YF1
+!i10b 1
+!i111 0
+Apractica
+R6
+R7
+R8
+R9
+DEx4 work 7 alumips 0 22 MBJjACLNRfZ8mAm:N^Qf42
+l31
+L29
+Ved?d`i:TanXJ1[OHV=TLU2
+R12
+31
+R13
+R14
+R15
+R16
+R17
+R18
+!s100 j3B8elIGo^[`Ej94;8[;>1
+!i10b 1
+!i111 0
+Ealumipstb
+Z19 w1456748936
+Z20 DPx4 ieee 11 numeric_std 0 22 WES[o8HS0jHV[MIXQk2Ha1
+R8
+R9
+R4
+Z21 8../enunciado/ALUMIPSTb.vhd
+Z22 F../enunciado/ALUMIPSTb.vhd
+l0
+L23
+VH9LS:Xa9Tj=QP2?1=lfI`0
+R12
+31
+R13
+Z23 !s108 1457099973.334000
+Z24 !s90 -reportprogress|300|-explicit|-93|../enunciado/ALUMIPSTb.vhd|
+Z25 !s107 ../enunciado/ALUMIPSTb.vhd|
+R17
+R18
+!s100 HG0o?CdQYC=5>`eO;`:PO1
+!i10b 1
+!i111 0
+Apractica
+R20
+R8
+R9
+DEx4 work 9 alumipstb 0 22 H9LS:Xa9Tj=QP2?1=lfI`0
+l162
+L26
+V]ch6_kDlHQoNAibJUGfcK1
+R12
+31
+R13
+R23
+R24
+R25
+R17
+R18
+!s100 j[h5^`HV3WNKYf2FPc8Z<1
+!i10b 1
+!i111 0

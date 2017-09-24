@@ -1,0 +1,4 @@
+vhdl work "G:\ec\p5\MicroMIPS\MicroMIPS.vhd"
+vhdl work "G:\ec\p5\Enunciado\MemDataMIPS.vhd"
+vhdl work "G:\ec\p5\Enunciado\MemProgMIPS.vhd"
+vhdl work "G:\ec\p5\Enunciado\MicroMIPSTb.vhd"

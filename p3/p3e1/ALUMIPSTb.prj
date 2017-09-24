@@ -1,0 +1,2 @@
+vhdl work "../entrega/ALUMIPS.vhd"
+vhdl work "../enunciado/ALUMIPSTb.vhd"

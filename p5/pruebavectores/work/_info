@@ -1,0 +1,414 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dG:/ec/p5/pruebavectores
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+VB]9Tddn;RWBFlg=eYelUf2
+Z1 04 11 4 work micromipstb test 1
+=1-c03fd5f05bf4-571736b9-164-a78
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z3 OL;O;10.2e;57
+Z4 dG:/ec/p5/pruebavectores
+!s110 1461139130
+T_opt1
+!s110 1461139593
+V8[`zGoM<ki;QP6[cc?c6m3
+R1
+=1-c03fd5f05bf4-57173888-2c1-32c
+R2
+n@_opt1
+R3
+Ealumips
+Z5 w1461138572
+Z6 DPx4 ieee 16 std_logic_signed 0 22 8FY=586_D?ni<6VI>V>_P1
+Z7 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z8 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z9 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+R4
+Z10 8../Entrega/ALUMIPS.vhd
+Z11 F../Entrega/ALUMIPS.vhd
+l0
+L19
+VMBJjACLNRfZ8mAm:N^Qf42
+Z12 OL;C;10.2e;57
+31
+Z13 !s110 1461139590
+Z14 !s108 1461139590.343000
+Z15 !s90 -reportprogress|300|-explicit|-93|../Entrega/ALUMIPS.vhd|
+Z16 !s107 ../Entrega/ALUMIPS.vhd|
+Z17 o-explicit -93
+Z18 tExplicit 1
+!s100 XV@E?1ed5`mYH6zIOK;YF1
+!i10b 1
+!i111 0
+Apractica
+R6
+R7
+R8
+R9
+DEx4 work 7 alumips 0 22 MBJjACLNRfZ8mAm:N^Qf42
+l31
+L29
+VjjL44Ic@LQF?WUTYB`K2F1
+R12
+31
+R13
+R14
+R15
+R16
+R17
+R18
+!s100 a0eC<TmmS3D4`VMo2`c@Y2
+!i10b 1
+!i111 0
+Ememdatamips
+Z19 w1459184946
+R7
+Z20 DPx4 ieee 18 std_logic_unsigned 0 22 @_jbHPR7i^Jh?`2fDCO`m3
+R8
+R9
+R4
+Z21 8../Enunciado/MemDataMIPS.vhd
+Z22 F../Enunciado/MemDataMIPS.vhd
+l0
+L19
+V5FUl`_@8Y>^m04KHg6NZ`1
+R12
+31
+Z23 !s110 1461139591
+Z24 !s108 1461139591.730000
+Z25 !s90 -reportprogress|300|-explicit|-93|../Enunciado/MemDataMIPS.vhd|
+Z26 !s107 ../Enunciado/MemDataMIPS.vhd|
+R17
+R18
+!s100 ?NO:L4KP]35UO1gRACa;M0
+!i10b 1
+!i111 0
+Asimple
+R7
+R20
+R8
+R9
+DEx4 work 11 memdatamips 0 22 5FUl`_@8Y>^m04KHg6NZ`1
+l37
+L30
+VEkB0j:7NR=FS8f`]Cmgi43
+R12
+31
+R23
+R24
+R25
+R26
+R17
+R18
+!s100 :1Q2h[Ce4im>;@B5Je4SQ0
+!i10b 1
+!i111 0
+Ememdatavectores
+Z27 w1459325986
+R7
+R20
+R8
+R9
+R4
+Z28 8../Entrega/MemDataVectores.vhd
+Z29 F../Entrega/MemDataVectores.vhd
+l0
+L18
+VBjO_I=0Q^z?CkV0]=U>Fk0
+R12
+31
+Z30 !s110 1461139128
+Z31 !s108 1461139128.360000
+Z32 !s90 -reportprogress|300|-explicit|-93|../Entrega/MemDataVectores.vhd|
+Z33 !s107 ../Entrega/MemDataVectores.vhd|
+R17
+R18
+!s100 >bOLLh5bX4WW2gk2:=d?[3
+!i10b 1
+!i111 0
+Asimple
+R7
+R20
+R8
+R9
+DEx4 work 15 memdatavectores 0 22 BjO_I=0Q^z?CkV0]=U>Fk0
+l36
+L29
+VW^60W:@dBI;=G2mF2nDa83
+R12
+31
+R30
+R31
+R32
+R33
+R17
+R18
+!s100 WUQOz;c2`zG?FaO`CW63@0
+!i10b 1
+!i111 0
+Ememprogmips
+Z34 w1459187908
+R20
+R7
+R8
+R9
+R4
+Z35 8../Enunciado/MemProgMIPS.vhd
+Z36 F../Enunciado/MemProgMIPS.vhd
+l0
+L20
+V6`eJ?ZT9IY]JR6hmBeO2b0
+R12
+31
+R23
+Z37 !s108 1461139591.282000
+Z38 !s90 -reportprogress|300|-explicit|-93|../Enunciado/MemProgMIPS.vhd|
+Z39 !s107 ../Enunciado/MemProgMIPS.vhd|
+R17
+R18
+!s100 N`4;8Hboh:=zB]mVhoefY3
+!i10b 1
+!i111 0
+Asimple
+R20
+R7
+R8
+R9
+DEx4 work 11 memprogmips 0 22 6`eJ?ZT9IY]JR6hmBeO2b0
+l29
+L27
+VmoEf=<Z6_ekXL;7n@`>]53
+R12
+31
+R23
+R37
+R38
+R39
+R17
+R18
+!s100 :cPGTFE4Kgd9[C[k0]3cb0
+!i10b 1
+!i111 0
+Ememprogvectores
+Z40 w1459325540
+R20
+R7
+R8
+R9
+R4
+Z41 8../Entrega/MemProgVectores.vhd
+Z42 F../Entrega/MemProgVectores.vhd
+l0
+L20
+VY10a^C9B6^X:U77EhRj_@1
+R12
+31
+R30
+Z43 !s108 1461139127.971000
+Z44 !s90 -reportprogress|300|-explicit|-93|../Entrega/MemProgVectores.vhd|
+Z45 !s107 ../Entrega/MemProgVectores.vhd|
+R17
+R18
+!s100 DI^I=mU[6b26VL7]aIL;>0
+!i10b 1
+!i111 0
+Asimple
+R20
+R7
+R8
+R9
+DEx4 work 15 memprogvectores 0 22 Y10a^C9B6^X:U77EhRj_@1
+l29
+L27
+VbUWj0HCC@<[U]K>8TX:L]0
+R12
+31
+R30
+R43
+R44
+R45
+R17
+R18
+!s100 P9^<XHYNf2JZI<:V3>2EN3
+!i10b 1
+!i111 0
+Emicromips
+Z46 w1461138182
+R20
+R7
+R8
+R9
+R4
+Z47 8../MicroMIPS/MicroMIPS.vhd
+Z48 F../MicroMIPS/MicroMIPS.vhd
+l0
+L20
+V?;G;bO7:[cPQV9XBgIAhh2
+R12
+31
+R13
+Z49 !s108 1461139590.794000
+Z50 !s90 -reportprogress|300|-explicit|-93|../MicroMIPS/MicroMIPS.vhd|
+Z51 !s107 ../MicroMIPS/MicroMIPS.vhd|
+R17
+R18
+!s100 H4emQKc3aI^4I:PBR0TC[3
+!i10b 1
+!i111 0
+Aejercicio
+R20
+R7
+R8
+R9
+DEx4 work 9 micromips 0 22 ?;G;bO7:[cPQV9XBgIAhh2
+l100
+L32
+VAH;bAHYM8R7B8>bWBFT>o2
+R12
+31
+R13
+R49
+R50
+R51
+R17
+R18
+!s100 3<=?lgD6OnlY=4Uj4EQOC3
+!i10b 1
+!i111 0
+Emicromipstb
+Z52 w1461139506
+R7
+R20
+R8
+R9
+R4
+Z53 8../Enunciado/MicroMIPSTb.vhd
+Z54 F../Enunciado/MicroMIPSTb.vhd
+l0
+L20
+V3?TCN2QQ;I;kRW6jh4LYU0
+R12
+31
+Z55 !s110 1461139592
+Z56 !s108 1461139592.172000
+Z57 !s90 -reportprogress|300|-explicit|-93|../Enunciado/MicroMIPSTb.vhd|
+Z58 !s107 ../Enunciado/MicroMIPSTb.vhd|
+R17
+R18
+!s100 5hH]_VY>HEnG=:YY9CB4i0
+!i10b 1
+!i111 0
+Atest
+R7
+R20
+R8
+R9
+DEx4 work 11 micromipstb 0 22 3?TCN2QQ;I;kRW6jh4LYU0
+l78
+L23
+Ve`]i?N5f;4b9UmEfCXbYT1
+R12
+31
+R55
+R56
+R57
+R58
+R17
+R18
+!s100 i4]dZGU_8X:aBT?cne5J^1
+!i10b 1
+!i111 0
+Eregsmips
+Z59 w1456909966
+R20
+R7
+R8
+R9
+R4
+Z60 8../Entrega/RegsMIPS.vhd
+Z61 F../Entrega/RegsMIPS.vhd
+l0
+L20
+VY6UM;E`0jLS^GAI8<I6YR0
+R12
+31
+R13
+Z62 !s108 1461139589.883000
+Z63 !s90 -reportprogress|300|-explicit|-93|../Entrega/RegsMIPS.vhd|
+Z64 !s107 ../Entrega/RegsMIPS.vhd|
+R17
+R18
+!s100 O;_HkWDcJoc[?IbOY6=@C2
+!i10b 1
+!i111 0
+Apractica
+R20
+R7
+R8
+R9
+DEx4 work 8 regsmips 0 22 Y6UM;E`0jLS^GAI8<I6YR0
+l49
+L34
+VZS194JcX_Mfj]?cHaoTD80
+R12
+31
+R13
+R62
+R63
+R64
+R17
+R18
+!s100 `;[5I`UR<IJTCc?;MR4E;1
+!i10b 1
+!i111 0
+Eunidadcontrol
+Z65 w1459931166
+R20
+R7
+R8
+R9
+R4
+Z66 8../Entrega/UnidadControl.vhd
+Z67 F../Entrega/UnidadControl.vhd
+l0
+L20
+Vmmam@?zlFf]eaFR`h[2152
+R12
+31
+Z68 !s110 1461139589
+Z69 !s108 1461139589.353000
+Z70 !s90 -reportprogress|300|-explicit|-93|../Entrega/UnidadControl.vhd|
+Z71 !s107 ../Entrega/UnidadControl.vhd|
+R17
+R18
+!s100 aD58gDZ3_GTID1f<agG5F2
+!i10b 1
+!i111 0
+Aarch
+R20
+R7
+R8
+R9
+DEx4 work 13 unidadcontrol 0 22 mmam@?zlFf]eaFR`h[2152
+l40
+L38
+VlNohK5Ylj93a1AAaFR3f70
+R12
+31
+R68
+R69
+R70
+R71
+R17
+R18
+!s100 9Lc^XofLV0Y?i@KbnHKjL3
+!i10b 1
+!i111 0

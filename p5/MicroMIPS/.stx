@@ -1,0 +1,43 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to G:/ec/p5/MicroMIPS/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.19 secs
+ 
+--> Parameter xsthdpdir set to G:/ec/p5/MicroMIPS/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.19 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "G:/ec/p5/MicroMIPS/MicroMIPS.vhd" in Library work.
+Architecture ejercicio of Entity micromips is up to date.
+Compiling vhdl file "G:/ec/p5/Enunciado/MemProgMIPS.vhd" in Library work.
+Architecture simple of Entity memprogmips is up to date.
+Compiling vhdl file "G:/ec/p5/Enunciado/MemDataMIPS.vhd" in Library work.
+Architecture simple of Entity memdatamips is up to date.
+Compiling vhdl file "G:/ec/p5/Enunciado/MicroMIPSTb.vhd" in Library work.
+ERROR:HDLParsers:1015 - "G:/ec/p5/Enunciado/MicroMIPSTb.vhd" Line 116. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "G:/ec/p5/Enunciado/MicroMIPSTb.vhd" Line 118. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "G:/ec/p5/Enunciado/MicroMIPSTb.vhd" Line 130. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "G:/ec/p5/Enunciado/MicroMIPSTb.vhd" Line 132. Wait for statement unsupported.
+
+
+Total REAL time to Xst completion: 2.00 secs
+Total CPU time to Xst completion: 2.43 secs
+ 
+--> 
+
+Total memory usage is 213176 kilobytes
+
+Number of errors   :    4 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

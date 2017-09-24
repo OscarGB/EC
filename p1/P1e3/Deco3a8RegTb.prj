@@ -1,0 +1,2 @@
+vhdl work "Deco3a8Reg.vhd"
+vhdl work "../enunciado/Deco3a8RegTb.vhd"

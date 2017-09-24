@@ -1,0 +1,7 @@
+V3 3
+FL G:/ec/p3/entrega/RegsMIPS.vhd 2016/03/02.10:12:46 P.20131013
+EN work/RegsMIPS 1456909967 FL G:/ec/p3/entrega/RegsMIPS.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/RegsMIPS/Practica 1456909968 \
+      FL G:/ec/p3/entrega/RegsMIPS.vhd EN work/RegsMIPS 1456909967

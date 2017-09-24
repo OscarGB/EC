@@ -1,0 +1,102 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dG:/ec/p3/p3e2
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1456910001
+VHbfgfVQl5EFbAzBX^e[Z[3
+04 10 8 work regsmipstb practica 1
+=1-c03fd5f05bf4-56d6aeaf-28f-82c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.2e;57
+Eregsmips
+Z1 w1456909966
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 @_jbHPR7i^Jh?`2fDCO`m3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z4 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z6 dG:/ec/p3/p3e2
+Z7 8../entrega/RegsMIPS.vhd
+Z8 F../entrega/RegsMIPS.vhd
+l0
+L20
+VY6UM;E`0jLS^GAI8<I6YR0
+Z9 OL;C;10.2e;57
+31
+Z10 !s110 1456909996
+Z11 !s108 1456909995.727000
+Z12 !s90 -reportprogress|300|-explicit|-93|../entrega/RegsMIPS.vhd|
+Z13 !s107 ../entrega/RegsMIPS.vhd|
+Z14 o-explicit -93
+Z15 tExplicit 1
+!s100 O;_HkWDcJoc[?IbOY6=@C2
+!i10b 1
+!i111 0
+Apractica
+R2
+R3
+R4
+R5
+DEx4 work 8 regsmips 0 22 Y6UM;E`0jLS^GAI8<I6YR0
+l49
+L34
+VZS194JcX_Mfj]?cHaoTD80
+R9
+31
+R10
+R11
+R12
+R13
+R14
+R15
+!s100 `;[5I`UR<IJTCc?;MR4E;1
+!i10b 1
+!i111 0
+Eregsmipstb
+Z16 w1456740360
+Z17 DPx4 ieee 11 numeric_std 0 22 WES[o8HS0jHV[MIXQk2Ha1
+R4
+R5
+R6
+Z18 8../enunciado/RegsMIPSTb.vhd
+Z19 F../enunciado/RegsMIPSTb.vhd
+l0
+L18
+VHg9OfdT@C`b]4koi?lZ?z3
+R9
+31
+Z20 !s110 1456909997
+Z21 !s108 1456909997.299000
+Z22 !s90 -reportprogress|300|-explicit|-93|../enunciado/RegsMIPSTb.vhd|
+Z23 !s107 ../enunciado/RegsMIPSTb.vhd|
+R14
+R15
+!s100 0f0[[hD_?DF:3m@a]9cX82
+!i10b 1
+!i111 0
+Apractica
+R17
+R4
+R5
+DEx4 work 10 regsmipstb 0 22 Hg9OfdT@C`b]4koi?lZ?z3
+l48
+L21
+VaN>gOnISI?;]dmYJ]h7jZ1
+R9
+31
+R20
+R21
+R22
+R23
+R14
+R15
+!s100 Bc03il=?@Ko720jnHE8jL0
+!i10b 1
+!i111 0

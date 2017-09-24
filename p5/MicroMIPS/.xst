@@ -1,0 +1,5 @@
+set -tmpdir "G:/ec/p5/MicroMIPS/xst/projnav.tmp"
+set -xsthdpdir "G:/ec/p5/MicroMIPS/xst"
+elaborate
+-ifn .prj
+-ifmt mixed

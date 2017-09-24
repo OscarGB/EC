@@ -1,0 +1,5 @@
+set -tmpdir "G:/ec/p2/p2e2/xst/projnav.tmp"
+set -xsthdpdir "G:/ec/p2/p2e2/xst"
+elaborate
+-ifn MicroSuma.prj
+-ifmt mixed

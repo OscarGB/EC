@@ -1,0 +1,13 @@
+V3 7
+FL G:/ec/p1/enunciado/Deco3a8RegTb.vhd 2016/01/25.17:59:52 P.20131013
+EN work/Deco3a8RegTb 0 FL G:/ec/p1/enunciado/Deco3a8RegTb.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Deco3a8RegTb/Simulacion 0 \
+      FL G:/ec/p1/enunciado/Deco3a8RegTb.vhd EN work/Deco3a8RegTb 0 CP Deco3a8Reg
+FL G:/ec/p1/P1e3/Deco3a8Reg.vhd 2016/02/03.10:55:00 P.20131013
+EN work/Deco3a8Reg 1454493322 FL G:/ec/p1/P1e3/Deco3a8Reg.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Deco3a8Reg/comport 1454493323 \
+      FL G:/ec/p1/P1e3/Deco3a8Reg.vhd EN work/Deco3a8Reg 1454493322

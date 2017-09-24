@@ -1,0 +1,5 @@
+set -tmpdir "G:/ec/p5/UnidadControl.vhd/xst/projnav.tmp"
+set -xsthdpdir "G:/ec/p5/UnidadControl.vhd/xst"
+elaborate
+-ifn UnidadControl.prj
+-ifmt mixed

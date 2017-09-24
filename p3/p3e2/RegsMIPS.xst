@@ -1,0 +1,5 @@
+set -tmpdir "G:/ec/p3/p3e2/xst/projnav.tmp"
+set -xsthdpdir "G:/ec/p3/p3e2/xst"
+elaborate
+-ifn RegsMIPS.prj
+-ifmt mixed

@@ -1,0 +1,7 @@
+V3 3
+FL G:/ec/p5/UnidadControl.vhd/UnidadControl.vhd 2016/04/06.10:05:48 P.20131013
+EN work/UnidadControl 1459929950 FL G:/ec/p5/UnidadControl.vhd/UnidadControl.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/UnidadControl/arch 1459929951 \
+      FL G:/ec/p5/UnidadControl.vhd/UnidadControl.vhd EN work/UnidadControl 1459929950

@@ -1,0 +1,41 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to G:/ec/p3/p3e1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.12 secs
+ 
+--> Parameter xsthdpdir set to G:/ec/p3/p3e1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "G:/ec/p3/entrega/ALUMIPS.vhd" in Library work.
+Architecture practica of Entity alumips is up to date.
+Compiling vhdl file "G:/ec/p3/enunciado/ALUMIPSTb.vhd" in Library work.
+ERROR:HDLParsers:1015 - "G:/ec/p3/enunciado/ALUMIPSTb.vhd" Line 198. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "G:/ec/p3/enunciado/ALUMIPSTb.vhd" Line 224. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "G:/ec/p3/enunciado/ALUMIPSTb.vhd" Line 250. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "G:/ec/p3/enunciado/ALUMIPSTb.vhd" Line 277. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "G:/ec/p3/enunciado/ALUMIPSTb.vhd" Line 304. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "G:/ec/p3/enunciado/ALUMIPSTb.vhd" Line 329. Wait for statement unsupported.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.81 secs
+ 
+--> 
+
+Total memory usage is 213880 kilobytes
+
+Number of errors   :    6 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
